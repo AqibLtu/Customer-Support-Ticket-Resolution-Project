@@ -2,6 +2,8 @@
 This project focuses on improving the customer support ticket resolution process.
 The goal is to reduce ticket resolution time, improve agent productivity, and enhance customer satisfaction by automating ticket categorization, assignment, and follow-up workflows.
 
+
+
 🎯 Objectives
 Map the current (As-Is) ticket handling process.
 
@@ -17,6 +19,9 @@ Visualize key support metrics with a dashboard.
 
 Demonstrate basic SQL reporting queries.
 
+
+
+
 🛠 Tools & Technologies Used
 Process Mapping: draw.io
 
@@ -27,6 +32,9 @@ Data Visualization: Canva
 Data Analysis: SQL (sample queries)
 
 Version Control: GitHub
+
+
+
 
 📄 Project Deliverables
 Project Description
@@ -44,6 +52,8 @@ Agile User Stories
 SQL Queries
 
 Dashboard Mockup
+
+
 
 
 
